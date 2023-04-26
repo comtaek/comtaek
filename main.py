@@ -1,6 +1,7 @@
 import new
 
 def function():
+    print("뉴 브랜치 함수 코드 수정 3")
     pass
     
 print("마스터 브랜치 코드 수정 2")
